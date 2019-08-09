@@ -1,0 +1,3 @@
+Introduce yourself to the GitHub community with a “hello world” message. The Hello World Guide shows you how to create a project and open a pull request. Once you’re done, take a look at your profile. You’ll see a green contribution square marking your accomplishments.
+
+Start the guide
